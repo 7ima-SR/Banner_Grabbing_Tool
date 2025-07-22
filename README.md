@@ -2,7 +2,6 @@
 
 A simple yet powerful Python-based banner grabbing tool to identify services running on open ports. Useful for network reconnaissance, penetration testing, and learning.
 
-![banner](https://img.shields.io/badge/Built%20With-Python-blue?style=flat-square)
 ![Built With](https://img.shields.io/badge/Built%20With-Python-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
