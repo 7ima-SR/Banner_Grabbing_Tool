@@ -33,7 +33,7 @@ pip install termcolor pyfiglet
 ## 🧠 Usage
 
 ```bash
-python banner_grabber.py -t <target> -p <ports> -T <timeout> -o <output_file>
+python banner_grabbing_tool.py -t <target> -p <ports> -T <timeout> -o <output_file>
 ```
 
 ---
@@ -52,7 +52,7 @@ python banner_grabber.py -t <target> -p <ports> -T <timeout> -o <output_file>
 ## 🔍 Example
 
 ```bash
-python banner_grabber.py -t example.com -p 21,22,80,443 -T 2 -o banners.txt
+python banner_grabbing_tool.py -t example.com -p 21,22,80,443 -T 2 -o banners.txt
 ```
 
 ---
